@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bg{
+    background-image: url(../../public/Images/backgroung.jpeg);
+    height: 470px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+.height-bg{
+    height: 110vh;
+}

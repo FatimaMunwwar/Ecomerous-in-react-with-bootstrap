@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.width{
+    width: 25%;
+    margin: auto;
+    height: 45vh;
+    padding: 35px;
+}
+.height{
+    height: 100vh;
+    background-color: rgb(4, 2, 0);
+}
+.height-one{
+    height: 100vh;
+  
+}
+.color{
+    background: rgb(175, 135, 216);
+    box-shadow: 5px 4px 23px 0px rgb(255, 255, 255);
+}
+.margintop{
+    margin-top: 33px;
+}

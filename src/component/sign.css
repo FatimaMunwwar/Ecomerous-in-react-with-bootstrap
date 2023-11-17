@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.width-one{
+    width: 50%;
+    margin: auto;
+    height: 70vh
+}
+.input-width{
+    width: 60vh;
+}
